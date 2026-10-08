@@ -1,35 +1,30 @@
 # 송승찬 · Seungchan Song
 
-정보보호 · 개인정보 보호 | Information Security
+세종대학교 정보보호학과 4학년(2027.02 졸업 예정). 개인정보 보호와 AI 서비스 보안을 공부했고, 보안 서비스·전략 기획 직무를 준비하고 있습니다.
 
-먼저 뚫어 보고, 숫자로 증명하고, 어디부터 막을지 가려냅니다.
-*Attack it first. Prove the risk in numbers. Work out what to fix first.*
-
-시스템 해킹으로 공격자의 방식을 익히고, AI(RAG) 서비스에서 개인정보가 어디서 얼마나 새는지 재현하고 측정하는 도구를 만들었습니다. 개인정보 보호와 보안 서비스·전략을 감이 아닌 근거와 수치로 기획하는 일을 하고 싶습니다.
-
-**[Portfolio](https://seungchan-song.github.io)** · [PDF 한국어](https://seungchan-song.github.io/downloads/SeungchanSong_Portfolio_KO.pdf) · [PDF English](https://seungchan-song.github.io/downloads/SeungchanSong_Portfolio_EN.pdf) · chanchan3314@naver.com
-
-## Featured
-
-| 프로젝트 | 설명 |
-|---|---|
-| [**RAG-DIAG**](https://github.com/seungchan-song/RAG-DIAG) | RAG 시스템에 공격 4종을 자동 실행하고, 한국형 개인정보 유출 위험을 대조군 대비 수치로 진단하는 CLI. 팀장 · 4인 팀 |
-| [**voicephishing-radar**](https://github.com/seungchan-song/voicephishing-radar) | 경찰청 통계와 뉴스를 결합해 보이스피싱 현황을 분석하는 대시보드와 경보 메일. SK쉴더스 루키즈 35기 팀 프로젝트 · 팀장 |
-| [**blockathon**](https://github.com/seungchan-song/blockathon) | 의료기록의 접근 권한과 접근 기록을 온체인으로 관리하는 Health Access Registry. UBC 블록체인 연수 해커톤 |
-
-## Highlights
-
-- 캡스톤 경진대회 **장려상 (3등)** · RAG-DIAG
-- **특허 출원 1건** · 2026.08.31 출원, 심사 대기
-- 빡공팟 시스템 해킹 트랙 **Elite 3** · 수료시험 TOP 3
-- UBC 블록체인 연수 해커톤 **3등**
+[Portfolio](https://seungchan-song.github.io) · [PDF 한국어](https://seungchan-song.github.io/downloads/SeungchanSong_Portfolio_KO.pdf) · [PDF English](https://seungchan-song.github.io/downloads/SeungchanSong_Portfolio_EN.pdf) · [chanchan3314@naver.com](mailto:chanchan3314@naver.com)
 
 ## About
 
-| | |
-|---|---|
-| 학력 | 세종대학교 정보보호학과 · 2027.02 졸업 예정 · 학점 4.10 / 4.5 |
-| 자격 · 어학 | 정보보안기사 · TOEIC 850 · OPIc IH |
-| 프로그래밍 언어 | Python (주력) · C |
-| 외국어 | English (능숙) · 中文 (중급) |
-| 다룬 도구 | Haystack · FAISS · Ollama · Flask · Linux · Docker |
+- **학력** 세종대학교 정보보호학과 · 2027.02 졸업 예정 · 학점 4.10 / 4.5
+- **자격 · 어학** 정보보안기사 · TOEIC 850 · OPIc IH
+- **프로그래밍** Python (주력) · C
+- **외국어** English (능숙) · 中文 (중급)
+- **도구** Haystack · FAISS · Ollama · Flask · Linux · Docker
+- **교육** 빡공팟 시스템 해킹 과정(수료시험 TOP 3, 2025) · SK쉴더스 루키즈 35기(수강 중) · UBC 블록체인 연수(2026)
+
+## Projects
+
+- **[RAG-DIAG](https://github.com/seungchan-song/RAG-DIAG)** · 캡스톤 · 팀장(4인)<br>
+  RAG 시스템에 공격 4종을 자동 실행하고, 새어 나온 한국형 개인정보를 위험도 점수로 보여주는 오픈소스 CLI입니다. 정규식 · 체크섬 · NER · sLLM 4단계로 개인정보 33종을 탐지합니다. 경진대회 장려상(3등), 특허 출원 1건. [NER 모델](https://huggingface.co/townboy/kpfbert-ner) · [데이터셋](https://huggingface.co/datasets/townboy/korean-pii-dataset)
+- **[Voicephishing Radar](https://github.com/seungchan-song/voicephishing-radar)** · SK쉴더스 루키즈 35기 · 팀장(6인)<br>
+  경찰청 통계와 뉴스를 수집해 피해 연령·지역과 최근 수법을 분석하고, 웹 대시보드와 가족용 경보 메일로 보여줍니다.
+- **[Health Access Registry](https://github.com/seungchan-song/blockathon)** · UBC 블록체인 해커톤 3등 · 팀 리더<br>
+  환자 의료정보는 체인에 올리지 않고, 열람 권한과 접근 시도 로그만 위·변조 없이 기록합니다. Ethereum Sepolia 스마트 컨트랙트와 MetaMask 웹 화면으로 구현했습니다.
+
+<details>
+<summary>English summary</summary>
+
+Final-year information security student at Sejong University (expected Feb 2027), interested in privacy protection and planning security services. Led RAG-DIAG, an open-source CLI that attacks RAG systems and measures how much Korean personal data leaks (3rd place in a capstone competition, patent application filed). Also led teams on a voice-phishing monitoring dashboard and a blockchain access-log system (3rd place at the UBC blockchain hackathon). Skills: Python, C; English and Chinese. Certified Engineer Information Security (정보보안기사).
+
+</details>
