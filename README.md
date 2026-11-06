@@ -19,7 +19,7 @@
 
 - **[RAG-DIAG](https://github.com/seungchan-song/RAG-DIAG)** · 캡스톤 · 팀장 (4인)<br>
   AI 챗봇(RAG)에 공격 질문을 자동으로 보내고, 답변에 나온 한국형 개인정보를 정규식 · 체크섬 · NER · sLLM 4단계로 탐지해 위험도를 측정하는 CLI입니다. 캡스톤 경진대회 장려상(3등), 특허 출원(10-2026-0164171).
-- **[Health Access Registry](https://github.com/seungchan-song/blockathon)** · UBC 블록체인 해커톤 3등 · 팀장 (4인)<br>
+- **[Health Access Registry](https://github.com/seungchan-song/blockathon)** · UBC 블록체인 해커톤 · 팀장 (4인)<br>
   환자가 본인 의료기록의 열람 권한을 직접 관리하고, 모든 열람 시도를 위 · 변조할 수 없게 남기는 서비스입니다. 의료기록은 체인에 올리지 않고 권한과 열람 시도만 Sepolia 테스트넷에 기록합니다.
 - **[Voice-phishing Radar](https://github.com/seungchan-song/voicephishing-radar)** · SK쉴더스 루키즈 35기 · 팀장 (6인)<br>
   경찰청 통계로 지난 보이스피싱 피해를, 뉴스로 최근 수법을 분석해 대시보드 · 경보 메일 · Notion으로 매주 자동 전달합니다.
@@ -29,6 +29,6 @@
 <details>
 <summary>English summary</summary>
 
-Final-year information security student at Sejong University (expected Feb 2027). I test systems the way attackers do and explain the risk with law and data. Led RAG-DIAG, a CLI that attacks RAG chatbots and measures Korean personal-data leakage (capstone 3rd prize, patent filed). Also did a black-box web penetration test of a training shop, a blockchain access registry for medical records (3rd place, UBC blockchain hackathon) and an automated voice-phishing trend pipeline. Engineer Information Security; English (proficient) and Chinese (intermediate).
+Final-year information security student at Sejong University (expected Feb 2027). I test systems the way attackers do and explain the risk with law and data. Led RAG-DIAG, a CLI that attacks RAG chatbots and measures Korean personal-data leakage (capstone 3rd prize, patent filed). Also did a black-box web penetration test of a training shop, a blockchain access registry for medical records (UBC blockchain hackathon) and an automated voice-phishing trend pipeline. Engineer Information Security; English (proficient) and Chinese (intermediate).
 
 </details>
